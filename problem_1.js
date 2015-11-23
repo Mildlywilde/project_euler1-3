@@ -5,6 +5,6 @@ var divider = function(input){
 			sum += i;
 		}
 	}
-	console.log(sum)
+	console.log(sum);
 }
-divider(1000)
+divider(1000);
